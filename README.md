@@ -32,8 +32,3 @@ Investigated packet captures containing VoIP calls to identify call scammers.
 
 
 
-🚀 How to Use
-
-Make sure to place your image files (lab3.jpg, lab4.jpg, lab5.jpg) in the root directory of your GitHub repository so the markdown can render them correctly.
-
-Feel free to check out the details or adapt this structure for your own documentation!
